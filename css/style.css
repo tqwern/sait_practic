@@ -1,0 +1,114 @@
+
+body {
+    margin: 0 ;
+    font-size: 16px;
+    font-family:'Roboto', sans-serif;
+}
+
+header {
+    height: 700px;
+    background: #EEEFF1;
+}
+
+.logo { 
+    margin-right: 398px;
+    margin-left: 402px;
+    margin-top: 57px;
+}
+
+ul {
+    margin: 0;
+    
+}
+
+li {
+    margin-top: 79px;
+    padding: 0;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 413px;
+    list-style: none;
+    padding-top: 25px;
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+    font-weight: 400px;
+}
+
+li a:hover {
+    color: #34547A
+}
+
+.info {
+    display: flex;
+    margin-left: 487px;
+}
+
+.img_pc {
+    margin-top: 200px;
+}
+
+.text {
+margin: 162px 405px 146px 143px;
+}
+
+.text h1 {
+    font-size: 48px;
+    width: 540px;
+    height: 67px;
+}
+
+.dezain {
+    margin-bottom: 60px;
+    margin-top: 0;
+
+}
+
+.text1 {
+    color: #727272;
+    font-size: 16px;
+}
+
+.button_contacts {
+    margin-top: 60px;
+}
+
+.button {
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+    padding: 25px 41px;
+    display: inline-block;
+    background: #34547A;
+}
+
+.about_me {
+    text-align: center;
+    line-height: 2;
+}
+
+.about_me h1 {
+    margin: 0;
+    padding-top: 119px;
+    
+}
+
+.about_me p {
+    margin: 50px 690px 100px;
+}
+
+.projects {
+    height: 250px;
+    background: #34547A;
+}
+
+.project_list {
+    display: flex;
+    text-decoration: none;
+}
+
