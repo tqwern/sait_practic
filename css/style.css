@@ -119,19 +119,6 @@ li a:hover {
     color: #fff;
 }
 
-.linya {
-    width: 350px;
-    height: 4px;
-    margin-bottom: 10px;
-    margin-top: 10px;
-    margin-left: 550px;
-    background: rgb(52, 84, 122);
-    background: linear-gradient(90deg,
-            rgba(52, 84, 122, 1) 35%,
-            rgba(196, 196, 196, 1) 100%);
-
-}
-
 .skills {
     display: flex;
 }
@@ -203,6 +190,14 @@ li {
     height: 1280px;
     padding-top: 28px;
 }
+
+
+.my_project img {
+    width: 480px;
+    height: 480px;
+}
+
+
 
 .microsoft {
     display: flex;
@@ -284,4 +279,30 @@ li {
     line-height: 23px;
     text-align: center;
     letter-spacing: 0.15em;
+}
+
+footer {
+    height: 151px;
+    background-color: #34547A;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer h3 {
+    font-size: 21px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+footer p {
+    font-size: 13px;
+    font-weight: 400;
+    color: #ffffff;
+    padding-top: 20px;
+}
+
+footer .vk {
+    text-align: right;
+    margin-top: 64px;
+    margin-bottom: 64px;
 }
